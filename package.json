@@ -1,7 +1,7 @@
 {
   "name": "hubot-ezoe",
   "description": "江添さんに簡単に質問出来る hubot script",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "yonexyonex <yonexyonex@icloud.com>",
   "license": "MIT",
 
