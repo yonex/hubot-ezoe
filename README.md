@@ -30,6 +30,6 @@ hubot-ezoe is configured by three environment variables:
 ```
 user1>> hubot ezoe にゃーん
 hubot>> EzoeRyou に「にゃーん」って質問しました
-user1>> hubot -u yonexyonexyonexyonex 江添亮？
+user1>> hubot ezoe -u yonexyonexyonexyonex 江添亮？
 hubot>> yonexyonexyonexyonex に「江添亮？」って質問しました
 ```
